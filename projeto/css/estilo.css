@@ -1,0 +1,37 @@
+body {
+	background-image: url('../images/fundo.jpg');
+	background-repeat: no-repeat;
+	background-size: 2000px 2100px;
+	align-items: center;
+	display: inline-block;
+	color: white;
+}
+html{
+	text-align: center;
+}
+
+
+.imgfederal {
+	width: 600px;
+	height: 340px;
+}
+
+.links {
+	color: red;
+	font-size: 20px;
+}
+
+.imgmonitoria {
+
+	width: 600px;
+	height: 480px;
+}
+
+.logo{
+	display: inline-block;
+	width: 80px;
+}
+
+
+
+
